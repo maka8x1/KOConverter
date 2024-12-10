@@ -7,7 +7,7 @@
 #include <cstring>
 
 /*
-C++ 26분반 Term Project 
+C++ 2분반 Term Project 
 - KO 자판 변환기 (두벌식, 세벌식)
 - 202412999 양현성
 
